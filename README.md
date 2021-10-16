@@ -1,6 +1,5 @@
 - 💻 Hi, I’m Valentina
-- 🥑 I’m interested in learning new things and eating a lot.
-- 🌱 I’m currently learning how to work Linux and hopefully soon enough SQL.
+- 🥑 I love avocados.
 - 💞️ I’m looking to collaborate on small projects that can help me build understanding and experience.
 - 📫 How to reach me vsanchezn.cs@gmail.com
 
