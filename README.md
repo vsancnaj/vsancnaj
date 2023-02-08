@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **open source projects**
 
-- 🌱 I’m currently learning **about HuggingFace and NLP**
+- 🌱 I’m currently learning **about AWS**
 
-- 👯 I’m looking to collaborate on **NLP or ML projects using Tensorflow**
+- 👯 I’m looking to collaborate on **Python or ML projects using Tensorflow**
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 💬 Ask me about **Tensorflow, ML**
+- 💬 Ask me about **Tensorflow, ML, Python**
 
 - 📫 How to reach me **vsanchezn.cs@gmail.com**
 
