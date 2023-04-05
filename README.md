@@ -2,19 +2,19 @@
 <h3 align="center">A passionate machine learning engineer born in Mexico and raised in the USA 🇲🇽🇺🇸</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **open source projects**
+- 🔭 I’m currently working on **Springboard Data Science Bootcamp**
 
-- 🌱 I’m currently learning **about AWS**
+- 🌱 I’m currently learning **about Data Science and Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on **Python or ML projects using Tensorflow**
+- 👯 I’m looking to collaborate on **Python or ML projects**
 
-- 🤝 I’m looking for help with **open source projects**
+<!-- - 🤝 I’m looking for help with **open source projects** -->
 
-- 💬 Ask me about **Tensorflow, ML, Python**
+- 💬 Ask me about **Data Science, ML, Python**
 
 - 📫 How to reach me **vsanchezn.cs@gmail.com**
 
-- ⚡ Fun fact **I love avocados 🥑**
+- ⚡ Fun fact **I love avocados 🥑 and reading novels 📚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
