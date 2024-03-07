@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Valentina Sanchez</h1>
-<h3 align="center">A passionate machine learning engineer born in Mexico and raised in the USA 🇲🇽🇺🇸</h3>
+<h3 align="center">Passionate about finding data driven solutions!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **Springboard Data Science Bootcamp**
+- 🔭 I’m currently working on **Recommendation Systems**
 
-- 🌱 I’m currently learning **about Data Science and Machine Learning Projects**
+- 🌱 I’m continously learning about **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Python or ML projects**
+- 👯 I’m looking to collaborate on **projects**
 
 <!-- - 🤝 I’m looking for help with **open source projects** -->
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vsanchezn.cs@gmail.com**
 
-- ⚡ Fun fact **I love avocados 🥑 and reading novels 📚**
+- 🏆 Personal challenge **to reach 100-day streak in Duolingo**💚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
