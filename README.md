@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina Sanchez</h1>
-<h3 align="center">🔭 I’m passionate about **Data Science, ML and AI!**</h3>
+<h3 align="center">🔭 I’m passionate about Data Science, ML and AI!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🌱 I’m currently learning about **Reinforcement Learning**
