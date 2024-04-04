@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about finding data driven solutions!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **Recommendation Systems**
+- 🔭 I’m currently working on **Reinforcement Learning**
 
 - 🌱 I’m continously learning about **Data Science and Machine Learning**
 
