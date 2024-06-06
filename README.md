@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vsanchezn.cs@gmail.com**
 
-- 🏆 Personal challenge **to reach 100-day streak in Duolingo**💚
+- 🏆 Personal challenge **to reach 200-day streak in Duolingo**💚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
