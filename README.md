@@ -2,7 +2,7 @@
 <h3 align="center">🔭 I’m passionate about Data Science, ML and AI!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🌱 I’m currently learning about **Python Automations and Cloud**
+- 🌱 I’m currently learning about **Python and AI**
 
 <!-- - 🤝 I’m looking for help with **open source projects** -->
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vsanchezn.cs@gmail.com**
 
-- 🏆 Personal challenge **to reach 200-day streak in Duolingo**💚
+- 🏆 Personal challenge **to reach 365-day streak in Duolingo**💚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
