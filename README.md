@@ -1,29 +1,54 @@
-<h1 align="center">Hi 👋, I'm Valentina Sanchez</h1>
-<h3 align="center">🔭 I’m passionate about Data Science, ML and AI!</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Animated GIF" width="225">
 
-- 🌱 I’m currently learning about **LLMs**
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=8A2BE2&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Valentina+Sanchez💜;°˖✧+Passionate+about+AI+✧˖°.;✧˖Always+learning+new+things✧˖" alt="Typing Animation">
+</p><br>
 
-<!-- - 🤝 I’m looking for help with **open source projects** -->
+<br>
 
-<!-- - 💬 Ask me about **Data Science, ML, Python** -->
+<h2 align="center" style="font-size: 24px;">━━━⊱⋆Skills⋆⊰━━━</h2>
 
-- 📫 How to reach me **vsanchezn.cs@gmail.com**
-
-- 🏆 Personal challenge **to reach 365-day streak in Duolingo**💚
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valentinasanchez00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentinasanchez00" height="30" width="40" /></a>
+<p align="center"> 
+   ~ Programming Languages ~<br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>       
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="40" height="40"/> 
+   <br><br>
+   ~ Data Science & Machine Learning ~<br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+   <br><br>
+   ~ Cloud & Deployment ~<br>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+   <br><br>
+   ~ Database & Data Processing ~<br>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+   <br><br>
+   ~ Other Tools & Technologies ~<br>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </p>
 
+<h2 align="center" style="font-size: 24px;">━━━⊱⋆GitHub Stats⋆⊰━━━</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <!-- - <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a>
-</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsancnaj&show_icons=true&theme=midnight-purple&bg_color=00000000&rank_icon=github&text_color=AE6DEB" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsancnaj&layout=compact&theme=midnight-purple&bg_color=00000000&text_color=AE6DEB" alt="Top Languages">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsancnaj&background=00000000&theme=midnight-purple&dates=AE6DEB" alt="Streak Stats"> -->
+</div>
 
+<h2 align="center" style="font-size: 24px;">━━━⊱⋆Get in Touch⋆⊰━━━</h2>
+<p align="center">
+  <a href="mailto:vsanchezn.cs@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/valentinasanchez00/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/vsancnaj"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
+   <br><br>
+   Let's connect and collaborate on exciting projects! 😊
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsancnaj&show_icons=true&locale=en&layout=compact" alt="vsancnaj" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=vsancnaj)
