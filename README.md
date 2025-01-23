@@ -1,7 +1,7 @@
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Animated GIF" width="225">
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=8A2BE2&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Valentina+Sanchez💜;°˖✧+Passionate+about+AI+✧˖°.;✧˖Always+learning+new+things✧˖" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=B200FF&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Valentina+Sanchez💜;°˖✧+Passionate+about+AI+✧˖°.;✧˖Always+learning+new+things✧˖" alt="Typing Animation">
 </p><br>
 
 <br>
