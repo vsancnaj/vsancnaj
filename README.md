@@ -7,13 +7,13 @@
 ---
 
 # 🌌 About Me
-I’m a Machine Learning Engineer focused on **NLP, LLMs, and representation learning**.  
-My work blends engineering with research-driven modeling — from **hierarchical transformers** to **LLM-assisted dataset generation**, **entity extraction**, and **large-scale text processing** (80M+ documents).
+I’m a Machine Learning Engineer focused on **NLP, LLMs, and Transformers(more classical approach)**.  
+My work blends engineering with research-driven modeling — from **hierarchical transformers** to **LLM-assisted dataset generation**, **entity extraction**, and **large-scale text processing** .
 
 I love building systems that **understand messy real-world text**, uncover structure, and power analytics, recommendations, and search.
 
 🔭 **Current deep-dive:**  
-Designing a *context-aware hierarchical transformer* that fuses sentence-level, section-level, and document-level reasoning for robust employer/entity extraction.
+Designing a *context-aware transformer* that fuses sentence-level, section-level, and document-level reasoning for robust employer/entity extraction.
 
 ---
 
