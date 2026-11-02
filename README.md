@@ -5,10 +5,9 @@ I’m spending a lot of time exploring AI agents, workflow automation, and how t
 ## Currently
 
 - building AI agents and small automation workflows
-- learning and shipping with tools like n8n, APIs, and agent-based systems
+- using tools like n8n, APIs, and agent-based systems
 - experimenting with how AI can support real work, not just hype
 - blending tech with fashion, design, and creative thinking
-- making small projects that are practical, personal, and interesting
 
 
 ~🌷
