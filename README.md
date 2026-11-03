@@ -1,6 +1,6 @@
 # 🫧🦋Valentina🦋🫧
 
-I’m spending a lot of time exploring AI agents, workflow automation, and how to connect different tools into something actually helpful and easy.
+Living my best live in nyc🗽
 
 ## Currently
 
