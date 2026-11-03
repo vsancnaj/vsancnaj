@@ -1,13 +1,12 @@
 # 🫧🦋Valentina🦋🫧
 
-Living my best live in nyc🗽
+Living my best life in NYC 🗽
 
 ## Currently
 
-- writing for Substack(TBD)
+- writing in Substack (TBD)
 - enjoying the autumn foliage
-- building AI agents and small automation workflows(n8n, APIs, and agent-based systems)
+- building AI agents and small automation workflows (n8n, APIs, agent-based systems)
 - blending tech with fashion, design, and creative thinking
-
 
 ~🌷
